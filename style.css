@@ -1,0 +1,46 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+ul,li{
+	list-style: none;
+}
+.wrap{
+	width: 1200px;
+	padding: 0 10;
+	margin: 0 auto;
+}
+#header{
+	background-color: #000;
+	height: 61px;
+}
+.logo{
+	/*background-color: aquamarine;*/
+	float: left;
+}
+.nav{
+	/*background-color: beige;*/
+	float: right;
+}
+.nav li{
+	float: left;
+	margin-left: 35px;
+	height: 61px;
+	line-height: 61px;
+}
+.nav li a{
+	color: #fff;
+}
+.aaa{
+	/*background-color: red;*/
+	width: 1200px;
+	padding: 0 10;
+	margin: 0 auto;
+}
+#main{
+	background-color: #333;
+}
+#footer{
+	background-color: aqua;
+}
